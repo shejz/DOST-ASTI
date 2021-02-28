@@ -1,9 +1,10 @@
 # DOST-ASTI DATA SCIENCE CONFERENCE TALKS 
 
-Interactive Visualization in Jupyter Notebook
+
 
 
 SLIDES:
+
 ![alt text](https://github.com/shejz/DOST-ASTI/blob/main/Presentation%20.pptx/Slides1.jpg)
 ![alt text](https://github.com/shejz/DOST-ASTI/blob/main/Presentation%20.pptx/Slides2.jpg)
 
