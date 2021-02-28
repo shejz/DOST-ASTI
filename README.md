@@ -5,6 +5,7 @@ Plotly in Jupyter Notebook
 
 
 SLIDES:
+![alt text](https://github.com/shejz/DOST-ASTI/blob/main/Presentation%20.pptx/Slides1.jpg?raw=true)
 
 
 
